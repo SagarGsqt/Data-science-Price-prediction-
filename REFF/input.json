@@ -1,0 +1,14 @@
+[{"Date": '2023-01-20',
+            "Hotel": 'Homewood',
+            "Room_type": 'standard room',
+            "Bar_rate": 115,
+            "Corporate_rate": 105,
+            "output_type": 'CSV'
+       },
+        {"Date": '2023-01-20',
+            "Hotel": 'Spring Hill',
+            "Room_type": 'standard room',
+            "Bar_rate": 125,
+            "Corporate_rate": 115,
+            "output_type": 'CSV'
+         }]
